@@ -1,0 +1,11 @@
+D:\CodeGym\Practice\dotnet-case-study\bin\Debug\netcoreapp3.1\dotnet-case-study.exe
+D:\CodeGym\Practice\dotnet-case-study\bin\Debug\netcoreapp3.1\dotnet-case-study.deps.json
+D:\CodeGym\Practice\dotnet-case-study\bin\Debug\netcoreapp3.1\dotnet-case-study.runtimeconfig.json
+D:\CodeGym\Practice\dotnet-case-study\bin\Debug\netcoreapp3.1\dotnet-case-study.runtimeconfig.dev.json
+D:\CodeGym\Practice\dotnet-case-study\bin\Debug\netcoreapp3.1\dotnet-case-study.dll
+D:\CodeGym\Practice\dotnet-case-study\bin\Debug\netcoreapp3.1\dotnet-case-study.pdb
+D:\CodeGym\Practice\dotnet-case-study\obj\Debug\netcoreapp3.1\dotnet-case-study.csprojAssemblyReference.cache
+D:\CodeGym\Practice\dotnet-case-study\obj\Debug\netcoreapp3.1\dotnet-case-study.AssemblyInfoInputs.cache
+D:\CodeGym\Practice\dotnet-case-study\obj\Debug\netcoreapp3.1\dotnet-case-study.AssemblyInfo.cs
+D:\CodeGym\Practice\dotnet-case-study\obj\Debug\netcoreapp3.1\dotnet-case-study.dll
+D:\CodeGym\Practice\dotnet-case-study\obj\Debug\netcoreapp3.1\dotnet-case-study.pdb
